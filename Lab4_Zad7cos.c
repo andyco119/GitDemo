@@ -7,8 +7,7 @@ int main(){
   for (index; ; index++){
     printf("%c",napis[index]);
   }
-  //sdfsfsfs
-  ///sfsfsff
+  printf("dupa11");
   
   
   return 0;
