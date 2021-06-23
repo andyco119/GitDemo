@@ -10,6 +10,7 @@ int main(){
 	printf("dupa22");
 	printf("dupa11");
 	printf("develop21");
+	printf("develop31");
   }
   return 0;
 }
