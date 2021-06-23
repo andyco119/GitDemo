@@ -11,6 +11,7 @@ int main(){
 	printf("dupa11");
 	printf("develop21");
 	printf("develop31");
+	printf("develop12");
   }
   return 0;
 }
