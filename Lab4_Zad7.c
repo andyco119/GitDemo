@@ -6,7 +6,7 @@ int main(){
   unsigned int index =0;
   for (index; ; index++){
     printf("%c",napis[index]);
-	printf("dupa1");
+
   }
   return 0;
 }
