@@ -8,7 +8,7 @@ int main(){
     printf("%c",napis[index]);
 
 	printf("dupa22");
-
+	printf("dupa11");
   }
   return 0;
 }
